@@ -6,7 +6,13 @@
   "location": "Hyderabad",
   "footer": {
     "copyright": "© 2026 Space Styling. Interior design & styling, Hyderabad.",
-    "social": ["Instagram", "Pinterest", "LinkedIn"]
+    "social": [
+      {
+        "label": "Instagram",
+        "network": "instagram",
+        "href": "https://www.instagram.com/_spacestyling_/?hl=en"
+      }
+    ]
   },
   "contact": {
     "email": "info@spacestyling.com",

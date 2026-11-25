@@ -44,7 +44,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           cta={navigation.cta}
         />
         {children}
-        <Footer footer={site.footer} />
+        <Footer
+          footer={site.footer}
+          contact={site.contact}
+          brand={site.brand}
+          brandByline={site.brandByline}
+          description={site.description}
+          links={navigation.links}
+        />
         <CustomCursor />
       </body>
     </html>
