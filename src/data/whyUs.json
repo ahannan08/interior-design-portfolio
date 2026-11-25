@@ -1,0 +1,31 @@
+{
+  "title": "Why clients choose us",
+  "lede": "We keep design, drawings and site work under one roof, so what you approve is what gets built.",
+  "progressLabel": "of 4",
+  "reasons": [
+    {
+      "icon": "home",
+      "title": "One team, start to finish",
+      "description": "Designers, architects and site engineers work together, so there are no hand-offs to lose detail.",
+      "stat": { "value": "240+", "label": "spaces delivered in-house" }
+    },
+    {
+      "icon": "clock",
+      "title": "Fixed timelines",
+      "description": "You get a dated schedule before work begins and weekly progress updates until handover.",
+      "stat": { "value": "94%", "label": "projects handed over on time" }
+    },
+    {
+      "icon": "chart",
+      "title": "Honest budgets",
+      "description": "Itemised quotes with no hidden line items, planned for projects from ₹10 lakh.",
+      "stat": { "value": "0", "label": "surprise costs at handover" }
+    },
+    {
+      "icon": "star",
+      "title": "Detail in every room",
+      "description": "Material samples, mock-ups and styling are reviewed with you before anything is ordered.",
+      "stat": { "value": "100%", "label": "materials approved by you" }
+    }
+  ]
+}

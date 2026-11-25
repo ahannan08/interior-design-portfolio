@@ -1,0 +1,21 @@
+{
+  "brand": "Space Styling",
+  "brandByline": "By Shaentelle",
+  "title": "Space Styling — Interior Design Studio, Hyderabad",
+  "description": "Calm, considered interiors for homes and workplaces across Hyderabad.",
+  "location": "Hyderabad",
+  "footer": {
+    "copyright": "© 2026 Space Styling. Interior design & styling, Hyderabad.",
+    "social": ["Instagram", "Pinterest", "LinkedIn"]
+  },
+  "contact": {
+    "email": "info@spacestyling.com",
+    "phone": "+91 9949662004",
+    "addressLines": [
+      "Road No: 14, Anushka Trendz,",
+      "Flat No: 402, Above Zudio,",
+      "Banjara Hills, Hyderabad 500034"
+    ],
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Road+No+14+Anushka+Trendz+Flat+402+Above+Zudio+Banjara+Hills+Hyderabad+500034&hl=en&z=15&output=embed"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "value": 12, "suffix": "", "label": "Years of practice" },
+    { "value": 240, "suffix": "+", "label": "Spaces completed" },
+    { "value": 85, "suffix": "+", "label": "Luxury homes styled" },
+    { "value": 98, "suffix": "%", "label": "Clients who recommend us" }
+  ]
+}

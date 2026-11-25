@@ -1,0 +1,13 @@
+{
+  "sideTitle": "Let's plan your space",
+  "sideText": "Share a few details and we'll get back to you within one working day.",
+  "submitLabel": "Send message",
+  "fields": {
+    "name": "Your name",
+    "email": "Email",
+    "message": "Message"
+  },
+  "validationError": "Please add your name, email, and message.",
+  "successMessage": "Thank you — we'll reply within one working day.",
+  "mapTitle": "Find us"
+}

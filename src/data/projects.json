@@ -1,0 +1,34 @@
+{
+  "title": "Selected projects",
+  "lede": "A few recent spaces from across Hyderabad.",
+  "viewAll": { "label": "View all projects", "href": "/projects" },
+  "items": [
+    {
+      "portfolioId": "healing-grays",
+      "layout": "j1",
+      "tag": "Residential",
+      "description": "A Jubilee Hills apartment in soft greys, oak and diffused daylight — planned for rest without losing warmth.",
+      "facts": [
+        { "value": "2,400", "unit": "sq ft" },
+        { "value": "4 mo", "unit": "delivery" }
+      ]
+    },
+    {
+      "portfolioId": "scandinavian-curves",
+      "layout": "j2",
+      "tag": "Residential",
+      "description": "Rounded arches, pale timber and linen upholstery keep this open home uncluttered and easy to live in.",
+      "facts": [
+        { "value": "3,100", "unit": "sq ft" },
+        { "value": "5 mo", "unit": "delivery" }
+      ]
+    },
+    {
+      "portfolioId": "skylounge",
+      "layout": "j3",
+      "tag": "Corporate",
+      "description": "A HITEC City penthouse office with acoustic lounges, skyline views and a calm, hospitality-led reception.",
+      "facts": []
+    }
+  ]
+}

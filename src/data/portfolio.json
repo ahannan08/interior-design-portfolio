@@ -1,0 +1,134 @@
+{
+  "pageTitle": "Projects",
+  "pageLede": "Interiors and workplaces across Hyderabad — browse by type or explore the full collection.",
+  "categories": [
+    { "id": "all", "label": "All" },
+    { "id": "residential", "label": "Residential" },
+    { "id": "commercial", "label": "Commercial" },
+    { "id": "corporate", "label": "Corporate" }
+  ],
+  "items": [
+    {
+      "id": "rugged-terrains",
+      "title": "Rugged Terrains",
+      "category": "residential",
+      "image": "/portfolio/rugged terrains.png",
+      "description": "Earthy textures and layered stone for a grounded family villa."
+    },
+    {
+      "id": "color-bleed",
+      "title": "Color Bleed",
+      "category": "commercial",
+      "image": "/portfolio/color bleed-commercial.png",
+      "description": "Bold colour accents in a collaborative studio workspace."
+    },
+    {
+      "id": "red-theory",
+      "title": "Red Theory",
+      "category": "corporate",
+      "image": "/portfolio/red-theroy-corporate.png",
+      "description": "Warm red tones and clean lines for a leadership floor."
+    },
+    {
+      "id": "healing-grays",
+      "title": "Healing Grays",
+      "category": "residential",
+      "image": "/portfolio/healing grays -resendetial.png",
+      "description": "Soft grey palette and natural light for everyday calm.",
+      "location": "Jubilee Hills"
+    },
+    {
+      "id": "minimal-woods",
+      "title": "Minimal Woods",
+      "category": "corporate",
+      "image": "/portfolio/minimal woods -corporate.png",
+      "description": "Light timber and white planes for a focused office."
+    },
+    {
+      "id": "eames-era",
+      "title": "Eames Era",
+      "category": "corporate",
+      "image": "/portfolio/eames era -corpoate.png",
+      "description": "Mid-century classics paired with contemporary joinery."
+    },
+    {
+      "id": "hyggezen",
+      "title": "Hyggezen",
+      "category": "residential",
+      "image": "/portfolio/hyggezen-residential.png",
+      "description": "Cozy layers, linen and warm wood in a city apartment.",
+      "location": "Gachibowli"
+    },
+    {
+      "id": "eclectic-essence",
+      "title": "Eclectic Essence",
+      "category": "corporate",
+      "image": "/portfolio/eclectic essence-corporate.png",
+      "description": "Mixed textures and art-forward meeting spaces."
+    },
+    {
+      "id": "natural-scape",
+      "title": "Natural Scape",
+      "category": "corporate",
+      "image": "/portfolio/natural-scape-corporate.png",
+      "description": "Biophilic touches and muted greens for a wellness clinic."
+    },
+    {
+      "id": "monotone-marvel",
+      "title": "Monotone Marvel",
+      "category": "residential",
+      "image": "/portfolio/monotone marvel -resedential.png",
+      "description": "Sculptural monochrome interiors with brass highlights."
+    },
+    {
+      "id": "taste-of-the-exotic",
+      "title": "Taste of the Exotic",
+      "category": "residential",
+      "image": "/portfolio/tase of the exotic- resenential.png",
+      "description": "Travel-inspired layers, pattern and collected objects."
+    },
+    {
+      "id": "house-of-the-rising-sun",
+      "title": "The House of the Rising Sun",
+      "category": "residential",
+      "image": "/portfolio/the-house of the rising sun- reendential.png",
+      "description": "East-facing rooms designed around morning light and warmth."
+    },
+    {
+      "id": "mid-sanctuary",
+      "title": "Mid Sanctuary",
+      "category": "residential",
+      "image": "/portfolio/mid-santuachty - resedential.png",
+      "description": "A quiet mid-century retreat with built-in seating."
+    },
+    {
+      "id": "scandinavian-curves",
+      "title": "Scandinavian Curves",
+      "category": "residential",
+      "image": "/portfolio/scandanavian-curves.png",
+      "description": "Soft arches and pale oak in an open-plan home."
+    },
+    {
+      "id": "skylounge",
+      "title": "Skylounge",
+      "category": "corporate",
+      "image": "/portfolio/skylounge-corporate.png",
+      "description": "Top-floor lounge and workspace with skyline views.",
+      "location": "HITEC City"
+    },
+    {
+      "id": "tribal-footprints",
+      "title": "Tribal Footprints",
+      "category": "corporate",
+      "image": "/portfolio/tribal_footprints-corporate.png",
+      "description": "Handcrafted details and heritage motifs in a brand HQ."
+    },
+    {
+      "id": "riveria",
+      "title": "Riveria",
+      "category": "residential",
+      "image": "/portfolio/riveria- resedential.png",
+      "description": "Coastal palette and flowing layouts for a waterfront flat."
+    }
+  ]
+}

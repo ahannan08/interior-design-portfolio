@@ -1,0 +1,19 @@
+{
+  "title": "About Space Styling",
+  "eyebrow": "Our story",
+  "story": [
+    "At Space Styling, we believe that every space has a story to tell, and it's our passion to help you craft yours with elegance and creativity. Whether you're stepping into your new home or opening the doors to your office, both are blank canvases brimming with potential, ready to be transformed into spaces of warmth, peace, inspiration, and productivity—just as you've envisioned.",
+    "With our expertise, passion, and a keen eye for detail, we breathe life into your spaces, curating each element to resonate with your unique style and functionality needs."
+  ],
+  "quote": {
+    "text": "Space styling is not just about placing objects; it's about creating a story within a room, where every element is a chapter that contributes to the overall narrative.",
+    "author": "Shaentelle",
+    "role": "Space Styling",
+    "image": "/about-founder.png"
+  },
+  "highlights": [
+    { "label": "Based in", "value": "Hyderabad" },
+    { "label": "We style", "value": "Homes & workplaces" },
+    { "label": "Our lens", "value": "Story-led spaces" }
+  ]
+}

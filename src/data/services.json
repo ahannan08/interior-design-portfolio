@@ -1,0 +1,34 @@
+{
+  "title": "Services",
+  "lede": "Four disciplines, one studio. Hover a service to see what it covers.",
+  "items": [
+    {
+      "id": "g1",
+      "title": "Residential interiors",
+      "description": "Apartments, villas and penthouses planned around how you live.",
+      "image": "/resendial_styling.png",
+      "chips": ["Space planning", "Custom joinery", "Lighting design"]
+    },
+    {
+      "id": "g2",
+      "title": "Commercial & office",
+      "description": "Workplaces, clinics and showrooms that reflect your brand.",
+      "image": "/commercial_styling.png",
+      "chips": ["Workplace strategy", "Brand spaces", "Acoustics"]
+    },
+    {
+      "id": "g3",
+      "title": "Architecture",
+      "description": "New builds and extensions shaped by light, air and climate.",
+      "image": "/interior_design.png",
+      "chips": ["Concept design", "Approvals", "Site supervision"]
+    },
+    {
+      "id": "g4",
+      "title": "Styling & renovation",
+      "description": "Furniture, art and careful renovation for finished rooms.",
+      "image": "/corporate_styling.png",
+      "chips": ["Furniture curation", "Art & objects", "Renovation"]
+    }
+  ]
+}
